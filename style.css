@@ -17,22 +17,22 @@ html {
 }
 
 @font-face {
-    font-family: 'raleway-bold';
-    src: url('fonts/raleway/Raleway-Bold.ttf') format('truetype');
+    font-family: 'noto-sans-bold';
+    src: url('fonts/noto-sans/NotoSans-Bold.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'raleway-italic';
-    src: url('fonts/raleway/Raleway-Italic.ttf') format('truetype');
+    font-family: 'noto-sans-italic';
+    src: url('fonts/noto-sans/NotoSans-Italic.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'raleway-regular';
-    src: url('fonts/raleway/Raleway-Regular.ttf') format('truetype');
+    font-family: 'noto-sans-regular';
+    src: url('fonts/noto-sans/NotoSans-Regular.ttf') format('truetype');
 }
 
 body {
-    font-family: 'raleway-regular', sans-serif;
+    font-family: 'noto-sans-regular', sans-serif;
     background-color: white;
 }
 
@@ -49,7 +49,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'raleway-regular', sans-serif;
+    font-family: 'noto-sans-regular', sans-serif;
     font-size: 2em;
     color: #363636;
     text-align: center;
@@ -83,7 +83,7 @@ h4 {
 }
 
 .content {
-    font-family: 'raleway-regular', sans-serif;
+    font-family: 'noto-sans-regular', sans-serif;
     font-size: 1em;
     color:#4a4a4a;
     text-align: justify;
