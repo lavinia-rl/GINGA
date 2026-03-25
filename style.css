@@ -36,7 +36,7 @@ body {
     background-color: white;
 }
 
-h1 {
+h1 {    
     font-family: 'googlesans-regular', sans-serif;
     font-size: 3em;
     color: #363636;
@@ -160,8 +160,21 @@ h6 {
     padding: 0;
 }
 
+.footer {
+    background-color: #fafafa;
+    padding: 3rem 1.5rem 4rem;
+    text-align: center;
+}
 
-
+.footer-content {
+    font-family: 'noto-sans-regular', sans-serif;
+    font-size: 1em;
+    color:#4a4a4a;
+    text-align: left;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0;
+}
 
 
 
